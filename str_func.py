@@ -1,4 +1,5 @@
 def upper(words):
+    """Заглавные буквы во всей строке"""
     upper_words = words.upper()
     return upper_words
 
